@@ -58,7 +58,7 @@ In many contexts, people spend money that was not earned by themselves. To our k
     <strong>Social Norms and Risky Driving Behavior</strong>
   </summary>
   <p>
-    with Sayanpaul Deep, Linda Thunström, and Klaas van't Veld
+    with Sayandeep Paul, Linda Thunström, and Klaas van't Veld
   </p>
   <p>
     We conduct a survey experiment to test if driving behavior of demographic groups is influenced by the social norm of how appropriate speeding and drinking and driving are.
