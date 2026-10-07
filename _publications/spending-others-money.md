@@ -3,7 +3,7 @@ title: "Spending Money Earned by Someone Else on Yourself"
 collection: publications
 category: progress
 permalink: /publication/spending-others-money
-excerpt: "Experiment testing if the source of money (self-earned or partner-earned) impacts willingness to pay and "
+excerpt: "Experiment testing if the source of money (self-earned or partner-earned) impacts willingness to pay and pain of paying of the purchase."
 date: 2026-10-01
 paperurl: "/files/DePaemelere_JMP.pdf"
 ---
