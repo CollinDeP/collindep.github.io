@@ -13,7 +13,7 @@ I earned dual Bachelor of Science degrees in Economics and Finance from the Univ
 
 You can contact me at [mail@collindep.com](mailto:mail@collindep.com)
 
-You can download my CV here (Updated September 2026): [Download CV (PDF)](/files/DePaemelere_CV.pdf){: .btn}
+You can download my CV here (Updated October 7th, 2026): [Download CV (PDF)](/files/DePaemelere_CV.pdf){: .btn}
 
 ## Job Market Paper
 
