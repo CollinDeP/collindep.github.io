@@ -2,7 +2,7 @@
 title: "Spending Money Earned by Someone Else on Yourself"
 collection: publications
 category: progress
-permalink: /publication/spending-others-money
+permalink: /publication/spending_others_money
 excerpt: "In many contexts, people spend money that was not earned by themselves. To our knowledge, no study has tested the effects of money source on spending behavior. We develop an economic model to motivate an novel experiment using real couples. We find that people feel worse about spending money their partner earned and this significantly lowers their willingness to pay."
 date: 2026-10-01
 venue:
@@ -11,7 +11,7 @@ paperurl: "/files/DePaemelere_JMP.pdf"
 citation:
 ---
 
-with [Linda Thunström](https://www.uwyo.edu/business/about-us/directory/thunstrom-linda.html), [Aaron Enriquez](https://www.alaskapacific.edu/people/aaron-enriquez/), and [Ben Gilbert](https://www.bengilbertecon.com/)
+with [Aaron Enriquez](https://www.alaskapacific.edu/people/aaron-enriquez/), [Ben Gilbert](https://www.bengilbertecon.com/), and [Linda Thunström](https://www.uwyo.edu/business/about-us/directory/thunstrom-linda.html).
 
 Job Market Paper - [Paper (PDF)](/files/DePaemelere_JMP.pdf){: .btn}
 
