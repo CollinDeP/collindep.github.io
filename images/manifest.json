@@ -1,5 +1,6 @@
 {
-	"name": "OOjs UI icon academic-progressive",
+	"name": "Collin DePaemelere",
+	"short_name": "DePaemelere",
 	"icons": [
 		{
 			"src": "/images/favicon-192x192.png",
@@ -11,5 +12,8 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"theme_color": "#177782",
+	"background_color": "#2d2a2e",
+	"display": "browser"
 }

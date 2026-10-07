@@ -8,4 +8,4 @@ date: 2024-10-03
 location: "Columbus, OH, USA"
 ---
 
-Presented this work to attendees at the Economic Science Association annual North American meeting in Columbus, Ohio. The current version of the paper can be found [here](/publication/spending_others_money).
+Presented this work to attendees at the Economic Science Association's annual North American meeting in Columbus, Ohio. The current version of the paper can be found [here](/publication/spending_others_money).
