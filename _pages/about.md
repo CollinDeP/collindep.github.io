@@ -19,7 +19,7 @@ My contact information is mail\[@]collindep\[dot]com
 
 **Spending Money Earned by Someone Else on Yourself**
 
-with Linda Thunström, Aaron Enriquez, and Ben Gilbert
+with Aaron Enriquez, Ben Gilbert, and Linda Thunström
 
 In many contexts, people spend money that was not earned by themselves. To our knowledge, no study has tested the effects of money source on spending behavior. We develop an economic model to motivate an novel experiment using real couples. We find that people feel worse about spending money their partner earned and this significantly lowers their willingness to pay. 
 
@@ -32,7 +32,7 @@ In many contexts, people spend money that was not earned by themselves. To our k
     <strong>Can Advice Shift Social Norms? Evidence from Moral Decision-Making</strong>
   </summary>
   <p>
-    with Linda Thunström and Johanna Möllerström
+    with Johanna Möllerström and Linda Thunström
   </p>
   <p>
     People give each other advice for social dilemmas frequently, and many are asking large language models for guidance. We do not know how receiving advice impacts the normative appropriateness of a given decision. We conduct an online survey experiment testing if the content (selfish or fair) and/or the source (human or AI) affect perceived appropriateness in a standard dictator game. We have finished data collection
@@ -58,7 +58,7 @@ In many contexts, people spend money that was not earned by themselves. To our k
     <strong>Social Norms and Risky Driving Behavior</strong>
   </summary>
   <p>
-    with Linda Thunström, Klaas van't Veld, and Sayanpaul Deep
+    with Sayanpaul Deep, Linda Thunström, and Klaas van't Veld
   </p>
   <p>
     We conduct a survey experiment to test if driving behavior of demographic groups is influenced by the social norm of how appropriate speeding and drinking and driving are.
