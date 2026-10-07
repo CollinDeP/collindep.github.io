@@ -11,9 +11,9 @@ I am a PhD candidate in Economics at the University of Wyoming. My research area
 
 I earned dual Bachelor of Science degrees in Economics and Finance from the University of Wyoming in May 2022 and a Master of Science in Economics in May 2025.
 
-My contact information is mail\[@]collindep\[dot]com
+You can contact me at mail\[@]collindep\[dot]com
 
-[Download CV (PDF)](/files/DePaemelere_CV.pdf){: .btn}
+You can download my CV here (Updated September 2026): [Download CV (PDF)](/files/DePaemelere_CV.pdf){: .btn}
 
 ## Job Market Paper
 
