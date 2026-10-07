@@ -51,6 +51,7 @@ In many contexts, people spend money that was not earned by themselves. To our k
     We create a simple to use life-cycle value tool for estimating the costs and benefits of youth smoking prevention programs using welfare theory. We incorporate both traditional cigarettes and ENDS, providing results parameterized by US state.
   </p>
 </details>
+<br>
 
 <details>
   <summary>
